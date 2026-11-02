@@ -1,0 +1,46 @@
+icecream-shop/
+│
+├── admin/
+│   ├── config.php
+│   ├── admin_login.php
+│   ├── admin_dashboard.php
+│   ├── manage_products.php
+│   ├── view_orders.php
+│   ├── report.php
+│   └── logout.php
+│
+├── user/
+│   ├── config.php
+│   ├── login.php
+│   ├── register.php
+│   ├── user_dashboard.php
+│   ├── menu.php
+│   ├── cart.php
+│   ├── order.php
+│   ├── confirmation.php
+│   ├── update_profile.php
+│   ├── search.php
+│   └── logout.php
+│
+├── home/
+│   ├── index.php
+│   ├── about.php
+│   ├── contact.php
+│   └── location.html
+│
+├── image/
+│   ├── logo.png
+│   ├── bg1.webp
+│   ├── bg4.avif
+│   ├── ice-bg.webp
+│   ├── slider.jpg
+│   ├── about_bg.jpg
+│   ├── pab.jpg
+│   ├── pi.jpg
+│   ├── strawberry.jpeg
+│   ├── pinkvanilla.jpeg
+│   ├── cherryblossom.webp
+│   └── [other product images]
+│
+└── images/ (upload directory)
+    └── [uploaded product images]
